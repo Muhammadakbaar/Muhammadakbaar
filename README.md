@@ -1,6 +1,7 @@
 # SiTamvan
 
-https://github.com/Muhammadakbaar/Profil-Picture/blob/main/d8e72eba82d9ce1e205b91b31a647d86.jpg?raw=true
+![d8e72eba82d9ce1e205b91b31a647d86](https://user-images.githubusercontent.com/24242426/98077007-f55cce00-1ea1-11eb-80d8-8f35c3ae24d5.jpg)
+
 
 <!--
 **Muhammadakbaar/Muhammadakbaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
