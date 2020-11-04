@@ -1,5 +1,5 @@
 # SiTamvan
-![fun](https://github.com/Muhammadakbaar/Profil-Picture/blob/main/fun%202.png)
+![677361](https://github.com/Muhammadakbaar/Profil-Picture/blob/main/677361.jpg)
 
 
 <!--
