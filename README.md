@@ -1,6 +1,13 @@
 # SiTamvan
 ![79bbc1aed8cbc851f54e4c1c933087bb](https://github.com/Muhammadakbaar/Profil-Picture/blob/main/79bbc1aed8cbc851f54e4c1c933087bb.jpg)
 
+```
+github   : github.com/Muhammadakbaar
+twitter  : @static_type
+facebook : facebook.com/statictype
+linkedin : Muhammad Akbar
+
+```
 
 <!--
 **Muhammadakbaar/Muhammadakbaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
