@@ -1,5 +1,5 @@
 # SiTamvan
-![670874](https://github.com/Muhammadakbaar/Profil-Picture/blob/main/photo_2021-01-23_17-40-52.jpg)
+![670874](https://github.com/Muhammadakbaar/Profil-Picture/blob/main/awalnya.jpg)
 
 ```
 github   : github.com/Muhammadakbaar
