@@ -5,12 +5,13 @@
 </p>
 
 ```
-github   : github.com/Muhammadakbaar
-twitter  : @static_type
-facebook : facebook.com/statictype
-linkedin : Muhammad Akbar
+                                         github   : github.com/Muhammadakbaar
+                                         twitter  : @static_type
+                                         facebook : facebook.com/statictype
+                                         linkedin : Muhammad Akbar
 
 ``` 
+
 
 <!--
 **Muhammadakbaar/Muhammadakbaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
