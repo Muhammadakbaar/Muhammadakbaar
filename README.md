@@ -1,6 +1,12 @@
 # SiTamvan
 
-![670874](https://github.com/Muhammadakbaar/Profil-Picture/blob/main/Hello(2).png)
+<p align="center">
+![670874](https://github.com/Muhammadakbaar/Profil-Picture/blob/main/Hello.png)
+</p>
+
+<p align="center">
+  <img src="https://github.com/Muhammadakbaar/Some-Picture/blob/main/Hello.png"/>
+</p>
 
 ```
 github   : github.com/Muhammadakbaar
