@@ -7,8 +7,7 @@
 ```
                                          github   : github.com/Muhammadakbaar
                                          twitter  : @static_type
-                                         facebook : facebook.com/statictype
-                                         linkedin : Muhammad Akbar
+                                         linkedin : linkedin.com/in/muhammadakbaar
 
 ``` 
 
