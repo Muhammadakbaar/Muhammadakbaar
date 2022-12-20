@@ -1,7 +1,7 @@
 # SiTamvan
 
 <p align="center">
-  <img src="https://github.com/Muhammadakbaar/Some-Picture/blob/main/Hello.png"/>
+  <img src="https://github.com/Muhammadakbaar/Some-Picture/blob/main/kondangan.jpg"/>
 </p>
 
 ```
