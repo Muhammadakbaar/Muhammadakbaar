@@ -8,6 +8,7 @@
                                          github   : github.com/Muhammadakbaar
                                          twitter  : @static_type
                                          linkedin : linkedin.com/in/muhammadakbaar
+                                         telegram : @indomietelorpakenasi
 
 ``` 
 
