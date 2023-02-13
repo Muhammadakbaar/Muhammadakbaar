@@ -6,7 +6,7 @@
 
 ```
                                          github   : github.com/Muhammadakbaar
-                                         twitter  : @static_type
+                                         twitter  : @shinkitazeni
                                          linkedin : linkedin.com/in/muhammadakbaar
                                          telegram : @indomietelorpakenasi
 
