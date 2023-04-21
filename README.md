@@ -6,7 +6,7 @@ Hi I'm Muhammad Akbar
   <img src="https://github.com/Muhammadakbaar/Some-Picture/blob/main/tolol.png"/>
 </p>
 <p align="center">
-A passionate Back end Developer
+A Passionate Back End Developer
 </p>
 
 
